@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Hafiz Muhammad Waqar Ali",
+    "occupation": "Front-End React Developer",
+    "image": "profilepic.jpg",
+    "bio": "Myself Hafiz Muhammad Waqar Ali a Front End Developer. I have Bachelor's Degree in Computer Science from The Islamia University of Bahawalpur. Also, I have more than 1 year of experience in Front End React Development. I describe myself as someone who's persistent, a quick learner, and loves problem-solving by using single and scalable solutions. I am very proficient in React and React-Redux. I have done many major projects in React Redux Js and many minor projects in JavaScript. Also, make my Final Year project an E-Commerce website using React Js, ReduxJs, and Next Js. I am very passionate about what I do and, It is important to me to provide exceptional front-end development service by giving personal attention to my clients.",
+    "contactmessage": "Get in touch with me!",
+    "email": "waqarhafiz03@gmail.com",
+    "phone": "+923087519270",
+    "address": {
+      "street": "Rahim Yar Khan",
+      "city": "Pakistan",
+      "state": "Punjab",
+      "zip": "64200"
+    },
+    "resumedownload": "./Resume.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/HafizWa38543841",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/Hafizwaqar927727779/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hafiz-muhammad-waqar-ali-qammar-a3305b153/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hafiz_waqar_ali/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Hafiz-Waqar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "The Islamia University of Bahawalpur",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Aug 2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Builtin Soft Pvt",
+        "title": "Front-End React Developer",
+        "years": "June 2021 - September 2021",
+        "description": "Work as a front-end react developer on control panel and dashboard panel for catch Taxi at Builtin Soft Tech. Deploy ASP .NET cor websites on Linux Ubuntu Server Using Nginx at Linode, and integrate the front-end with Rest Api."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "92%"
+      },
+      {
+        "name": "REACT BOOTSTRAP",
+        "level": "90%"
+      },
+      {
+        "name": "ANT DESIGN",
+        "level": "87%"
+      },
+      {
+        "name": "MATERIAL-UI",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "83%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "REDUX",
+        "level": "78%"
+      },
+      {
+        "name": "Blogging",
+        "level": "90%"
+      },
+      {
+        "name": "Deploy Websites",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ecommerce Website",
+        "category": "",
+        "image": "Pakzone.png",
+        "url": "https://pak-zone-h4yvrzhyn-hafiz-waqar.vercel.app/"
+      },
+      {
+        "title": "Portfolio Website",
+        "category": "",
+        "image": "portfolio.png",
+        "url": "https://hafiz-waqar-ali.netlify.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://netflix-by-waqar.netlify.app/"
+      },
+      {
+        "title": "Tesla Clone",
+        "category": "",
+        "image": "Tesla.png",
+        "url": "https://tesla-clone-57a26.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Hafiz Muhammad Waqar Ali had been exposing to different processes and was found diligent, hardworking, and inquisitive.",
+        "user": "Adnan Majeed CEO at Builtin Soft Pvt"
+      },
+      {
+        "text": "Very Polite, Good listner and great content. What else one should need ? I would really recommed Mr Hafiz in case if you wish to get your content done for your website!",
+        "user": "prashanttwc from Fiverr"
+      }
+    ]
+  }
+}
